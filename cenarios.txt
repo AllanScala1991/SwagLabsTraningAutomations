@@ -1,0 +1,18 @@
+LOGIN
+- [] Login e Senha corretos
+- [] Login e Senha incorreto
+- [] Login e Senha com campos em branco
+- [] Testar usuario bloqueado
+
+HOME
+- [] Acessar pagina de about
+- [] Deslogar do sistema
+- [] Filtrar de Z a A
+- [] Filtrar por Preco Menor para o Maior
+- [] Filtrar por Preco do Maior para o Menor
+
+CHECKOUT
+- [] Adicionar item ao carrinho
+- [] Remover item do carrinho na home
+- [] Remover item do carrinho no carrinho
+- [] Efetuar a compra
